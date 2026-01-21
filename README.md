@@ -1,4 +1,4 @@
-# Deskala Deskala Research and Design Consulting Pvt. Ltd  (Software Development Training Assignments)
+# Deskala Research and Design Consulting Pvt. Ltd  (Software Development Training Assignments)
 
 This repository contains my **weekly assignments** and **hands-on practice work** completed as part of the **Deskala Software Development Training Program**.
 

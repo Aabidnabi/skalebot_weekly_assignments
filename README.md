@@ -8,12 +8,5 @@ The goal of this repository is to maintain a structured record of my learning pr
 
 ## Repository Structure
 
-Assignments are organized week-wise:
+Assignments are organized Module-wise:
 
-```bash
-Deskala-Weekly-Assignments/
-│
-├── Week-01
-├── Week-02
-├── Week-03
-└── ...
